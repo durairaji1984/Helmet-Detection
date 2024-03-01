@@ -28,7 +28,6 @@ change the name of folder in line 150 for input images.
 open terminal and python3 Helmet_detection_YOLOV3.py  
 
 #### link to files.  
-[model](https://drive.google.com/file/d/1_xBdP1GRK4i7yzJP8_a5GWaejZZKjdyI/view?usp=sharing)
 [model1](https://drive.google.com/file/d/13OOejC0MKb2aY2hE8zVXGx50aSQuK4Lg/view?usp=sharing)
 [cfg](https://drive.google.com/file/d/1GM1eS5PNJTNFPytQsmnv7rgw2nle1bnW/view?usp=sharing)  
 [obj.names](https://drive.google.com/file/d/1mvJHjmRCWgi6wxPFaw7ZM5i7aCAWk3J4/view?usp=sharing)  
